@@ -1,8 +1,12 @@
 #!/bin/bash
 #iclude<stdio>
-
+/**
+ * main - entry point
+ *
+ * Return; 0 after priting the function
+ */
 int main(void)
 {
-	puts("\"programming is like building a multiling puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return(0);
 }
