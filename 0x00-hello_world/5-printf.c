@@ -4,8 +4,7 @@
  *
  * main - Entry point
  * My hello. printf task
- * return 0 - determines success
- *
+ * return: return 1 after program execution
  */
 int main(void)
 {
