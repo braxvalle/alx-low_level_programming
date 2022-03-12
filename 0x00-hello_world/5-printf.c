@@ -2,7 +2,8 @@
 
 /**
  *
- * main - entry point of the program
+ * main - Entry point
+ * My hello. printf task
  * return 0 - determines success
  *
  */
