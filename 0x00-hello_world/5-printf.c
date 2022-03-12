@@ -3,7 +3,6 @@
 /**
  *
  * main - entry point of the program
- *
  * return 0 - determines success
  *
  */
