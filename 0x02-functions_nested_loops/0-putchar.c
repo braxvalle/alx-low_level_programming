@@ -1,22 +1,21 @@
-#include "main.h"
-#include <stdio.h>
+#include "myheader.h"
 
 /**
- *Main - Entry point
- *Return:always 0 (success)                                    
+ * main - Entry point prints the alphabet
+ *
+ * Return: return 0 (Success)
  */
 
-
-int main(void){
-
-	int n = 0;
-	char msg[] = "_putchar\n";
-	char c;
-	while (n <= 8)
-	{
-		c = msg[n];
-		_putchar(c);
-		n++;
-	}
-	return (0);
+int main(void)
+{
+    _putchar('_');
+    _putchar('p');
+    _putchar('u');
+    _putchar('t');
+    _putchar('c');
+    _putchar('h');
+    _putchar('a');
+    _putchar('r');
+    _putchar('\n');
+return (0);
 }
