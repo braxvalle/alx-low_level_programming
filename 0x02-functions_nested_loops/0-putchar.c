@@ -1,5 +1,5 @@
 #include "myheader.h"
-
+#include "main.h"
 /**
  * main - Entry point prints the alphabet
  *
