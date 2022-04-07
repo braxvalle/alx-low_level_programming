@@ -3,7 +3,7 @@
  * *_calloc - call
  * @nmemb: n
  * @size: size
- *  always Return: 0
+ * Return: 0
  */
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
